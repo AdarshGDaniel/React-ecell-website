@@ -41,13 +41,6 @@ function PastEventsPage(props) {
                                 <TimelineDot />
                                 <TimelineConnector />
                                 </TimelineSeparator>
-                                <TimelineContent><Link style={{cursor: 'pointer'}} activeClass="active" to="2022" spy={true} smooth={true} offset={-80} duration={500}>2022</Link></TimelineContent>
-                            </TimelineItem>
-                            <TimelineItem>
-                                <TimelineSeparator>
-                                <TimelineDot />
-                                <TimelineConnector />
-                                </TimelineSeparator>
                                 <TimelineContent><Link style={{cursor: 'pointer'}} activeClass="active" to="2021" spy={true} smooth={true} offset={-80} duration={500}>2021</Link></TimelineContent>
                             </TimelineItem>
                             <TimelineItem>

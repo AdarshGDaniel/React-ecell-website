@@ -2,7 +2,7 @@
   "name": "ECell-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adarshgdaniel.github.io/React-ecell-website",
+  "homepage": "https://adarshgdaniel.github.io/React-ecell-website/",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
