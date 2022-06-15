@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo: [Link](https://adarshgdaniel.github.io/React-khacks-website/).
+Live Demo: [Link](https://adarshgdaniel.github.io/React-ecell-website).
 
 ## Clone the Repo
 
