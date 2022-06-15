@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-ecell-website/static/css/main.c999f99f.chunk.css",
-    "main.js": "/React-ecell-website/static/js/main.35def066.chunk.js",
-    "main.js.map": "/React-ecell-website/static/js/main.35def066.chunk.js.map",
+    "main.js": "/React-ecell-website/static/js/main.8335aab3.chunk.js",
+    "main.js.map": "/React-ecell-website/static/js/main.8335aab3.chunk.js.map",
     "runtime-main.js": "/React-ecell-website/static/js/runtime-main.f58fd1bf.js",
     "runtime-main.js.map": "/React-ecell-website/static/js/runtime-main.f58fd1bf.js.map",
     "static/css/2.8473dddd.chunk.css": "/React-ecell-website/static/css/2.8473dddd.chunk.css",
@@ -44,7 +44,7 @@
     "static/media/c_2.a0c017e0.JPG": "/React-ecell-website/static/media/c_2.a0c017e0.JPG",
     "static/media/c_3.beeaaf18.JPG": "/React-ecell-website/static/media/c_3.beeaaf18.JPG",
     "static/media/c_4.f4c89ad6.jpg": "/React-ecell-website/static/media/c_4.f4c89ad6.jpg",
-    "static/media/codeofconduct.01a68a97.pdf": "/React-ecell-website/static/media/codeofconduct.01a68a97.pdf",
+    "static/media/codeofconduct.58bca28e.pdf": "/React-ecell-website/static/media/codeofconduct.58bca28e.pdf",
     "static/media/ecell.49df7f0e.png": "/React-ecell-website/static/media/ecell.49df7f0e.png"
   },
   "entrypoints": [
@@ -52,6 +52,6 @@
     "static/css/2.8473dddd.chunk.css",
     "static/js/2.d63d1483.chunk.js",
     "static/css/main.c999f99f.chunk.css",
-    "static/js/main.35def066.chunk.js"
+    "static/js/main.8335aab3.chunk.js"
   ]
 }
